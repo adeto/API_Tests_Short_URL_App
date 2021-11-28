@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparation- Short URL Tests", "ExamPreparation- Short URL Tests\ExamPreparation- Short URL Tests.csproj", "{21AE7719-F2C2-4246-ACD5-2CB61A4C262F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21AE7719-F2C2-4246-ACD5-2CB61A4C262F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AE7719-F2C2-4246-ACD5-2CB61A4C262F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AE7719-F2C2-4246-ACD5-2CB61A4C262F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AE7719-F2C2-4246-ACD5-2CB61A4C262F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4240FFA-38A2-4B2A-82D7-D9EF8D88A5F7}
+	EndGlobalSection
+EndGlobal
